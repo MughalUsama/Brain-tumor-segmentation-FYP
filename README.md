@@ -1,2 +1,3 @@
-# Brain-tumor-segmentation-FYP-
-Final year project
+# Brain-tumor-segmentation-FYP
+
+BS-Software Engineering, Final year project, PUCIT
